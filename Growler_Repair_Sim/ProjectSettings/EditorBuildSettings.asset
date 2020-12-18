@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/GreyBox.unity
+    guid: b44435bf85931064290c4e5b109712c7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1c9cc5e1856419343a0551fcd8b73942,
       type: 2}
